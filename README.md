@@ -40,6 +40,7 @@ View Detailed Project: https://shorturl.at/OSHLv
 
 ### Images
 ## Home Page
-![S-1](https://github.com/user-attachments/assets/935c46c1-f4b5-4c1a-b8c1-b298f4d08f7c)
+![Output-1 Home Page](https://github.com/user-attachments/assets/7ef0642f-a13e-4982-9c27-ba9b35c91e6e)
+
 ## Main Dashboard
-![S-2](https://github.com/user-attachments/assets/f9b9cf59-42ba-4b67-87e0-c2a136b8c26a)
+![Output-2  Dashboard](https://github.com/user-attachments/assets/8ed50bfe-f267-492b-94e8-077cca35360b)
